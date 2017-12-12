@@ -47,6 +47,7 @@ EMPTY는 단독테그 </form> 이런거 같은거
 	#IMPLIED : NULL
 	#FIXED : DEFAULT
 	
+	
 -->
 <!ELEMENT id (#PCDATA)>
 <!ELEMENT pwd (#PCDATA)>

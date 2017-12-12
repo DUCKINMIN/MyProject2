@@ -5,7 +5,12 @@
 		<id>aaa</id>
 		<name>aaa</name>
 		<home>1111</home>
-		
-	</list>
 
+	</list>
+	<list no="a2">
+		<id>aaa</id>
+		<name>aaa</name>
+		<home>1111</home>
+
+	</list>
 </member>
